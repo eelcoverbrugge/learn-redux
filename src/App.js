@@ -1,7 +1,8 @@
 import React from 'react'
+import Posts from './Posts'
 
 const App = () => {
-  return <React.Fragment>Hello, Learn Redux</React.Fragment>
+  return <Posts />
 }
 
 export default App
